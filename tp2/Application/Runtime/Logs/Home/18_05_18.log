@@ -1,0 +1,9 @@
+[ 2018-05-18T14:47:01+08:00 ] ::1 /tp/Home/Admin/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002392s ]
+ERR: 无法加载控制器:Admin
+

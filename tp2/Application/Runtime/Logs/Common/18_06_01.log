@@ -1,0 +1,126 @@
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN_/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/js/menu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__img/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/js/menu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/xl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/search-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/top-icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002081s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/top-icon5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/top-icon3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/left-img1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/top-icon4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__img/icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/img/left-img3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/top-icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/img/left-img2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/left-img4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-01T17:24:55+08:00 ] ::1 /tp/Application/Admin/View/Index/__ADMIN__/img/xiala.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001089s ]
+ERR: 无法加载模块:Application
+

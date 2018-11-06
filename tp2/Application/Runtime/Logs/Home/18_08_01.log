@@ -1,0 +1,210 @@
+[ 2018-08-01T12:03:36+08:00 ] ::1 /tp2/Admin//U('Index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载控制器:U('Index
+
+[ 2018-08-01T12:03:37+08:00 ] ::1 /tp2/Admin//U('Index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+ERR: 无法加载控制器:U('Index
+
+[ 2018-08-01T12:03:38+08:00 ] ::1 /tp2/Admin//U('Index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载控制器:U('Index
+
+[ 2018-08-01T12:07:14+08:00 ] ::1 /tp2/Admin//U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:07:15+08:00 ] ::1 /tp2/Admin//U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:07:15+08:00 ] ::1 /tp2/Admin//U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:07:16+08:00 ] ::1 /tp2/Admin//U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:07:19+08:00 ] ::1 /tp2/Admin//U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:12:45+08:00 ] ::1 /tp2/index.php/Admin//:U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+ERR: 无法加载控制器::U('index
+
+[ 2018-08-01T12:12:45+08:00 ] ::1 /tp2/index.php/Admin//:U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+ERR: 无法加载控制器::U('index
+
+[ 2018-08-01T12:12:46+08:00 ] ::1 /tp2/index.php/Admin//:U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+ERR: 无法加载控制器::U('index
+
+[ 2018-08-01T12:13:20+08:00 ] ::1 /tp2/index.php/Admin//echo%20'U('index/info-mgt.html')'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002099s ]
+ERR: 无法加载控制器:Echo 'U('index
+
+[ 2018-08-01T12:13:20+08:00 ] ::1 /tp2/index.php/Admin//echo%20'U('index/info-mgt.html')'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载控制器:Echo 'U('index
+
+[ 2018-08-01T12:16:50+08:00 ] ::1 /tp2/index.php/Admin/U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:17:24+08:00 ] ::1 /tp2/index.php/Admin//U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002092s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:17:24+08:00 ] ::1 /tp2/index.php/Admin//U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+ERR: 无法加载控制器:U('index
+
+[ 2018-08-01T12:17:33+08:00 ] ::1 /tp2/Application/Admin/View/index/U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002247s ]
+ERR: 无法加载控制器:Admin
+
+[ 2018-08-01T12:18:06+08:00 ] ::1 /tp2/index.php/Admin//index/U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001675s ]
+ERR: 非法操作:U('index
+
+[ 2018-08-01T12:18:10+08:00 ] ::1 /tp2/index.php/Admin//index/U('index/info-mgt.html')
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+ERR: 非法操作:U('index
+
+[ 2018-08-01T12:28:39+08:00 ] ::1 /tp2/index.php/Admin//index/%7B:U('index/info-mgt.html'))
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+ERR: 非法操作:{:U('index
+
+[ 2018-08-01T12:28:39+08:00 ] ::1 /tp2/index.php/Admin//index/%7B:U('index/info-mgt.html'))
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 7 D:\wamp64\www\tp2\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+ERR: 非法操作:{:U('index
+
